@@ -1,0 +1,25 @@
+#quote-container {
+  text-align: center;
+  padding: 20px;
+}
+
+#quote {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: brown;
+}
+
+#author {
+  font-size: 18px;
+  font-style: italic;
+  color: black;
+}
+
+#generate-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: aqua;
+  border-radius: 8px;
+}
